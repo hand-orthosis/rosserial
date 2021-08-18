@@ -4,3 +4,7 @@ uint16 adc2
 uint16 adc3
 uint16 adc4
 uint16 adc5
+uint16 adc6
+uint16 adc7
+uint16 adc8
+uint16 adc9
